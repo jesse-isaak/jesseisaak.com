@@ -706,7 +706,7 @@ h1#hero-text{
 	}
 	.goodkid-project-header {
 		background-image: url("../images/JI-site-goodkid.jpg");
-		height: 66vh;
+		/* height: 66vh; */
 		background-position: center;
 		background-repeat: repeat-x;
 		background-size: 800px;
@@ -715,7 +715,7 @@ h1#hero-text{
 		}
 	.midnight-project-header {
 		background-image: url("../images/Midnight-Cold-Brew-Mockup-w-background.jpeg");
-		height: 66vh;
+		/* height: 66vh; */
 		background-position: center;
 		background-repeat: repeat-x;
 		background-size: 800px;
@@ -723,17 +723,17 @@ h1#hero-text{
 		top: 0;
 		}
 	.suncreek-project-header {
-		background-image: url("../images/hotsauce-7.jpeg");
-		height: 66vh;
+		background-image: url("../images/6840b028d8aa75b35de8dcc3_tiger-bomb_anim 2.gif");
+		/* height: 66vh; */
 		background-position: center;
 		background-repeat: repeat-x;
-		background-size: 1200px;
+		background-size: contain;
 		position: relative;
 		top: 0;
 		}
 	.tedx-project-header {
 		background-image: url("../images/JI-site-TEDx-conference.jpg");
-		height: 66vh;
+		/* height: 66vh; */
 		background-position: center;
 		background-repeat: repeat-x;
 		background-size: 900px;
